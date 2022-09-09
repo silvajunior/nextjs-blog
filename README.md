@@ -1,4 +1,5 @@
-# nextjs-blog
+# NextJS Blog
 
-https://user-images.githubusercontent.com/6840962/189446566-21f955b5-6870-4417-94b2-97e00b78ae59.mp4
+Blog build with NextJS.
 
+![output](https://user-images.githubusercontent.com/6840962/189447009-9eff09b4-d34f-4b70-a48c-27b66f8089ee.gif)
